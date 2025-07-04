@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 权重文件
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# 数据集
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.csv
+*.json
+*.xml
+*.zip
+*.tar
+*.tar.gz
+*.npz
+*.npy
+
+# IDE配置
+.idea/
+.vscode/
+*.iml
+
+# 结果与日志
+*.log
+*.out
+*.tmp
+
+# 其他
+.DS_Store
+Thumbs.db 
